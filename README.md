@@ -12,25 +12,6 @@
 
 ##  How It Works
 
-The system follows a multi-stage process to generate and refine railway networks:
-
-```mermaid
-graph TD;
-    A[1. Candidate Graph Generation] --> B{2. Graph Enrichment};
-    B --> C[3. Feature Extraction];
-    C --> D{4. ML-Based Edge Filtering};
-    D --> E[5. Slime Mold Simulation];
-    E --> F[6. Route Visualization];
-
-    subgraph "Data Preparation"
-        A; B; C;
-    end
-
-    subgraph "Optimization & Visualization"
-        D; E; F;
-    end
-```
-
 1.  **Candidate Graph Generation**: Creates a foundational grid graph over the selected geographical area.
 2.  **Graph Enrichment**: Augments the graph with geospatial data, including elevation, slope, and population density.
 3.  **Feature Extraction**: Calculates features for each potential edge in the graph.
