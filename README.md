@@ -51,7 +51,6 @@ graph TD;
 ### Prerequisites
 
 -   Python 3.9 or later
--   [GDAL](https://gdal.org/download.html) installed on your system.
 
 ### Installation
 
