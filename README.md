@@ -1,17 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mazelini/PhasyrumRail/main/assets/logo.png" alt="PhysarumRail Logo" width="150"/>
-  <h1>PhysarumRail</h1>
-  <p>
-    <strong>A bio-inspired AI system for dynamic and efficient urban railway routing.</strong>
-  </p>
-  <p>
-    <a href="https://www.python.org/downloads/release/python-390/"><img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt="Python 3.9"></a>
-    <a href="https://github.com/mazelini/PhasyrumRail/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg" alt="License: GPL-3.0"></a>
-  </p>
-</div>
-
----
-
 ##  Overview
 
 **PhysarumRail** is an innovative, bio-inspired AI system that fuses slime-mold–inspired reinforcement, LightGBM-based filtering, and enriched geospatial data to dynamically generate efficient urban railway routes. The system is accessible via an interactive Streamlit interface, allowing for intuitive and powerful railway network optimization.
