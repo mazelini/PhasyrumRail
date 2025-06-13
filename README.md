@@ -2,8 +2,7 @@
 
 **PhysarumRail** is an innovative, bio-inspired AI system that fuses slime-mold–inspired reinforcement, LightGBM-based filtering, and enriched geospatial data to dynamically generate efficient urban railway routes. The system is accessible via an interactive Streamlit interface, allowing for intuitive and powerful railway network optimization.
 
-![Screenshot 2025-05-15 170129](https://github.com/user-attachments/assets/c3284e2b-638e-44b3-b0fc-759611552cda)
-
+![Screenshot 2025-05-15 170129 (1)](https://github.com/user-attachments/assets/7d8a7eb0-953a-4472-95e1-9afab4f94b3d)
 
 ##  Features
 
