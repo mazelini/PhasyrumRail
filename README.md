@@ -2,6 +2,7 @@
 
 **PhysarumRail** represents a significant advancement in bio-inspired AI for urban infrastructure planning. This innovative system integrates slime-mold-inspired reinforcement learning, drawing extensively from the seminal Tokyo railway Physarum experiment, which demonstrated the organism's inherent ability to optimize network efficiency. Complementing this biological paradigm, PhysarumRail incorporates LightGBM-based filtering and leverages enriched geospatial data to facilitate the dynamic generation of highly efficient urban railway routes. The entire system is deployed via an interactive Streamlit interface, providing a robust and intuitive platform for advanced railway network optimization.
 
+![image](https://github.com/user-attachments/assets/4953091c-954f-47a9-ba56-62ce3cd52ba5)
 
 ![Screenshot 2025-05-15 170129 (1)](https://github.com/user-attachments/assets/7d8a7eb0-953a-4472-95e1-9afab4f94b3d)
 
