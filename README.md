@@ -71,7 +71,6 @@ PhasyrumRail/
 ├── requirements.txt            # Project dependencies
 ├── .gitignore                  # Files to be ignored by Git
 ├── README.md                   # Project README file
-├── LICENSE                     # Project License
 ├── sim/                        # Slime mold simulation module
 │   └── slime_simulator.py
 ├── utils/                      # Utility functions for graph processing, etc.
@@ -79,7 +78,6 @@ PhasyrumRail/
 │   ├── enrich_graph.py
 │   ├── graph_features.py
 │   └── map_export.py
-└── assets/                     # Logos and other assets
-    └── logo.png
+
 ```
 
